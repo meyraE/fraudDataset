@@ -13,3 +13,4 @@ Datasetimiz de bulunan verilerin içeriği aşağıdaki gibidir :
 -Kart Sahibinin Cinsiyeti
 -İşlem Dolandırıcılık mı Değil mi ? (0 veya 1 ile gösterilmiştir)
 
+![Datasetİçeriği](https://github.com/meyraE/fraudDataset/assets/126703751/2685da77-c3ed-4ef4-83fc-1ee3bda91f46)
