@@ -1,2 +1,4 @@
 # fraudDataset
-This study was conducted for fraud detection with artificial neural networks.
+Bu çalışma uygulamalı sinir ağları ile dolandırıcılık çalışması üzerinedir. 
+
+Datasetimiz de bulunan verilerin içeriği aşşağıdaki gibidir : 
